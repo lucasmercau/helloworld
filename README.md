@@ -2,7 +2,7 @@
 
 This is a basic Hello World program written with Python. The reason I created this was to demonstrate the use of Visual Studio Code, GitHub, and Python together.
 
-You can watch a demo of my software here: [Software Demo Video](http://youtube.link.goes.here)
+You can watch a demo of my software here: [Software Demo Video](https://www.youtube.com/watch?v=Ash9qcYCvig)
 
 # Development Environment
 
